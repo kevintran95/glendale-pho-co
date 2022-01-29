@@ -7,5 +7,10 @@ body {
 }
 
 .about {
- padding: 10px;
+  padding: 10px;
+}
+
+#navbarSupportedContent {
+  display: flex;
+  align-items: right;
 }
