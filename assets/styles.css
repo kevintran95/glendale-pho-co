@@ -14,3 +14,13 @@ body {
   display: flex;
   align-items: right;
 }
+
+.phoDacBiet {
+  width: 75%;
+  height: 75%;
+}
+
+#myCarousel {
+  display: flex;
+  justify-content: center;
+}
